@@ -8,6 +8,10 @@
     box-sizing: border-box; 
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: rgb(49, 173, 255);
 }
